@@ -7,10 +7,8 @@ public class SampleTest {
 	@Test
 	
 	public void sampletest() {
-		System.out.println(1234);
-		System.out.println(123455);
+System.out.println(123);		
 		
-		System.out.println(54654);
 	}
 
 }
