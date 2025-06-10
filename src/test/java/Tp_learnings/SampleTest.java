@@ -8,6 +8,7 @@ public class SampleTest {
 	
 	public void sampletest() {
 		System.out.println(1234);
+		System.out.println(123455);
 	}
 
 }
